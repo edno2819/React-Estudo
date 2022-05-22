@@ -1,0 +1,12 @@
+.theme {
+    --theme: rgba(34, 25, 25, 0.692);
+    --theme-text: white;
+}
+
+
+.theme button {
+    font-size: 1.5em;
+    border-radius: 5px;
+    background-color: var(--theme);
+    color:  var(--theme-text);
+}
